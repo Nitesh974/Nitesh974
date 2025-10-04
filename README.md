@@ -3,19 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh974&label=Profile%20views&color=0e75b6&style=flat" alt="nitesh974" /> </p>
 
-- 🌱 I’m currently learning **Java & Springboot frameworks**
+- 🌱 I’m currently learning **Java, Spring Boot, and Microservices Architecture**
 
-- 👯 I’m looking to collaborate on **projects utilizing Spring Boot and build secure, scalable web applications.**
+- 👯 I’m looking to collaborate on **Spring Boot projects** focused on building **secure and scalable web apps**
 
-- 🤝 I’m looking for help with **Springboot**
+- 🤝 I’m looking for help with **advanced Spring Boot concepts and deployment**
 
-- 👨‍💻 All of my projects are available at [https://nitesh974.github.io/MyPortfolio/](https://nitesh974.github.io/MyPortfolio/)
+- 👨‍💻 All of my projects are available at [🌐 [My Portfolio](https://nitesh974.github.io/MyPortfolio/)](🌐 [My Portfolio](https://nitesh974.github.io/MyPortfolio/))
 
-- 💬 Ask me about **Springboot**
+- 💬 Ask me about **Spring Boot, REST APIs, React, or MySQL**
 
 - 📫 How to reach me **niteshsharmar479@gmail.com**
 
-- ⚡ Fun fact **I create instagram reels related to jobs and careers**
+- ⚡ Fun fact **I create Instagram reels related to jobs and careers!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
