@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **advanced Spring Boot concepts and deployment**
 
-- 👨‍💻 All of my projects are available at [🌐 [My Portfolio](https://nitesh974.github.io/MyPortfolio/)](🌐 [My Portfolio](https://nitesh974.github.io/MyPortfolio/))
+- 👨‍💻 All of my projects are available at [🌐 [My Portfolio](https://nitesh974.github.io/MyPortfolio/)]
 
 - 💬 Ask me about **Spring Boot, REST APIs, React, or MySQL**
 
